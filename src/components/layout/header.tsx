@@ -40,7 +40,7 @@ export default function Header() {
                 Usluge
               </Link>
               <Link
-                href="#onama"
+                href="/services"
                 className="text-gray-700 hover:text-amber-600 font-medium transition-colors"
               >
                 O nama
@@ -144,7 +144,7 @@ export default function Header() {
                   Usluge
                 </Link>
                 <Link
-                  href="#onama"
+                  href="/services"
                   className="block py-3 text-gray-700 hover:text-amber-600 font-medium transition-colors border-b border-gray-100"
                   onClick={closeMenu}
                 >
