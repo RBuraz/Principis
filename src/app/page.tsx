@@ -13,12 +13,13 @@ export default function Home() {
               poslovni uspjeh
             </h1>
             <p className="text-xl text-gray-600 mb-8">
-              Pružamo stručne usluge savjetovanja, projektnog upravljanja i
-              poslovnog konsaltinga temeljene na iskustvu i inovacijama.
+              Pružamo stručne usluge izrade web stranica, digitalnog marketinga i
+              poslovnog savjetovanja kako bismo vam pomogli da ostvarite svoje
+              poslovne ciljeve.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="#usluge"
+                href="/services"
                 className="bg-amber-600 hover:bg-amber-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors text-center"
               >
                 Naše usluge
